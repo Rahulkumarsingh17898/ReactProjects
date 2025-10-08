@@ -1,7 +1,9 @@
 function App() {
   return (
-    <h1>React Investment Calculator</h1>
-  )
+    <>
+      <h1 className="my-8 text-center text-5xl font-bold">Hello World</h1>
+    </>
+  );
 }
 
-export default App
+export default App;
